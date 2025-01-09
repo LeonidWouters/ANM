@@ -7,6 +7,7 @@
 Leonid Wouters [1] Liridona Cerkini [2] Livia Piguet [3] Tamara Haueise [4]
 
 - CO2_Berechnungen.xlsx [1]
+- Data_Notebook.ipynb [1] 
 - Wege_CO2_Berechnungen.ipynb [1]
 - Modell_Stadt-Land-Intermediaer.ipynb [2]
 - Modell_Güteklasse.ipynb [3]
